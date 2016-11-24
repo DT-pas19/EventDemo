@@ -1,0 +1,10 @@
+/home/ministry/Документы/Ytljкод/See sharp/TestSuite/TestSuite/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ministry/Документы/Ytljкод/See sharp/TestSuite/TestSuite/bin/Release/TestSuite.exe.mdb
+/home/ministry/Документы/Ytljкод/See sharp/TestSuite/TestSuite/bin/Release/TestSuite.exe
+/home/ministry/Документы/Ytljкод/See sharp/TestSuite/TestSuite/obj/x86/Release/TestSuite.exe
+/home/ministry/Документы/Ytljкод/See sharp/TestSuite/TestSuite/obj/x86/Release/TestSuite.exe.mdb
+/home/wrightandy19/repo/TestSuite/TestSuite/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/wrightandy19/repo/TestSuite/TestSuite/bin/Release/TestSuite.exe.mdb
+/home/wrightandy19/repo/TestSuite/TestSuite/bin/Release/TestSuite.exe
+/home/wrightandy19/repo/TestSuite/TestSuite/obj/x86/Release/TestSuite.exe
+/home/wrightandy19/repo/TestSuite/TestSuite/obj/x86/Release/TestSuite.exe.mdb

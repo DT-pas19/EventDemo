@@ -1,0 +1,5 @@
+/home/wrightandy19/repo/TestSuite/TestSuite/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/wrightandy19/repo/TestSuite/TestSuite/bin/Debug/TestSuite.exe.mdb
+/home/wrightandy19/repo/TestSuite/TestSuite/bin/Debug/TestSuite.exe
+/home/wrightandy19/repo/TestSuite/TestSuite/obj/x86/Debug/TestSuite.exe
+/home/wrightandy19/repo/TestSuite/TestSuite/obj/x86/Debug/TestSuite.exe.mdb

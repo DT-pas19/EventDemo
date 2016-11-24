@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{636CC59F-1219-4FC6-B95D-0F8DE1394F8A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestSuite/Program.cs">
+    <Files>
+      <File FileName="TestSuite/Program.cs" Line="33" Column="27" />
+      <File FileName="TestSuite/Character.cs" Line="48" Column="18" />
+      <File FileName="TestSuite/KeyInterceptor.cs" Line="25" Column="14" />
+      <File FileName="TestSuite/CharacterPositionChangedEventArgs.cs" Line="21" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TestSuite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
